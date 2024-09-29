@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavyacp123
 - 👀 I’m interested in  devlopment;
 - 
-- 🌱 I’m currently learning  c,c++,javascript
+- 🌱 I’m currently learning  c,c++,javascript,java
 
 - 
 - 💞️ I’m looking to collaborate on ...
